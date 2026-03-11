@@ -1,0 +1,30 @@
+body {
+display: flex;
+align-items: flex-start;
+}
+.blue {
+padding: 20px;
+background-color: blue;
+}
+.yo {
+padding: 20px;
+margin: 10px;
+background-color: yellow;
+}
+.red {
+padding-right: 80px;
+background-color: red;
+}
+
+.green {
+padding-bottom: 80px;
+background-color: green;
+}
+
+.flex {
+display: flex;
+}
+
+.column {
+display: inline-flex;
+}
